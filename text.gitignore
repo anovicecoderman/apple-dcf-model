@@ -1,0 +1,4 @@
+#Ignore temporary Excel files
+~$*.xlsx
+~$*.xls
+.DS_Store
